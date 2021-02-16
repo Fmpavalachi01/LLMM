@@ -1,0 +1,24 @@
+*{
+    flex-direction:column; 
+    flex-wrap: all;
+    align-items: center;
+     
+}
+
+.icono {
+    position: fixed;
+    
+    font-size: 30px;
+    animation: caida 3s linear forwards;
+}
+
+@keyframes caida {
+
+    to {
+        transform: translateY(-1vh);
+    }
+
+    from {
+        transform: translateY(100vh);
+    }
+}
