@@ -1,0 +1,52 @@
+{
+	"ciudad" : "Almendralejo",
+	"dias" : [
+		{
+			"dia" : 21,
+			"temperatura" : 10,
+			"viento" : 20,
+			"humedad" : 60,
+			"estado" :  
+				{
+				"nombre" : "soleado",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 30,
+			"temperatura" : 22,
+			"viento" : 7,
+			"humedad" : 55,
+			"estado" :  
+				{
+				"nombre" : "nublado",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 2,
+			"temperatura" : 4,
+			"viento" : 23,
+			"humedad" : 75,
+			"estado" :  
+				{
+				"nombre" : "lluvia",
+				"icono" : "urlWeb"
+				}				
+		},
+		{
+			"dia" : 25,
+			"temperatura" : 9,
+			"viento" : 25,
+			"humedad" : 61,
+			"estado" :  
+				{
+				"nombre" : "lluvia",
+				"icono" : "urlWeb"
+				}				
+		}
+	]
+
+
+
+}
