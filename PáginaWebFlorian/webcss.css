@@ -1,0 +1,131 @@
+.cabecera{
+    
+	width: 100%;
+    height: 10%;
+    background-color: #676666;
+    text-align: justify;
+    font-size: 25px;
+    font-style: oblique;
+
+}
+.div1{
+
+    width: 90%;
+    text-align: justify;
+    border: inset;
+    border-color: grey;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px; 
+
+}
+
+.div2{
+
+    width: 90%;
+    text-align: justify;
+    border: outset;
+    border-color: grey;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+ 
+
+}
+
+.cuerpo{
+
+	background-color: #c1c1c1;
+}
+
+.nav{
+
+	background-color: grey;
+
+}
+.final{
+    
+    width: 100%;
+    height: 10%;
+	background-color: #5d6366;
+	text-align: justify;
+    font-size: 25px;
+    font-style: oblique;
+}
+.titulotexto{
+
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+    text-decoration-line: underline;
+    color: black;
+
+}
+.linkk{
+
+    color: black;
+}
+.linkkk{
+
+    color: blue;
+}
+.titulonoticia{
+
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    text-decoration-line: underline;
+    color: black;
+}
+.textonoticia{
+
+    text-align:justify;
+    font-size: 20px;
+    color: black;
+}
+.login{
+
+   border-style: inset;
+   height: 175px;
+   background-color: #6868ff;
+   width: 50%;
+   text-align: center;
+   padding-top: 40px;
+   margin-top: 175px;
+   margin-left: 325px;
+   border-color: black;
+}
+.register{
+
+   border-style: outset;
+   height: 300px;
+   background-color: #6868ff;
+   width: 50%;
+   text-align: center;
+   padding-top: 40px;
+   margin-top: 175px;
+   margin-left: 325px;
+   border-color: black;
+}
+.fondol{
+
+    background-color: grey;
+}
+.titulos{
+
+    font-size: 36px;
+    text-align:center;
+    text-decoration-line: underline;
+}
